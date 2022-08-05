@@ -1,4 +1,4 @@
-# first-and-a-half-collaboration
+# Rhinocerus
 
 Collaborators:
 
